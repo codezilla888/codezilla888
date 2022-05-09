@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codezilla888
+- 👋 Hi, I’m Bagrat
 - 👀 I’m interested in iOS Developing and Data Science
 - 🌱 I’m currently learning Python and Swift
 - 💞️ I’m looking to collaborate on https://t.me/Arutyunov888
