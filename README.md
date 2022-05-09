@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codezilla888
-- 👀 I’m interested in iOS Developing
-- 🌱 I’m currently learning UIKit and SwiftUI
+- 👀 I’m interested in iOS Developing and Data Science
+- 🌱 I’m currently learning Python and Swift
 - 💞️ I’m looking to collaborate on https://t.me/Arutyunov888
 - 📫 How to reach me bagrat.arutyunov.888@gmail.com
 
